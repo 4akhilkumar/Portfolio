@@ -1,0 +1,179 @@
+{
+  "About": [
+    {
+      "title": "Web Designer",
+      "description": "I am a good web developer",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    },
+    {
+      "title": "Python Developer",
+      "description": "I am a good web developer",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    },
+    {
+      "title": "Backend Developer",
+      "description": "I am a good web developer",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    },
+    {
+      "title": "Frontend Developer",
+      "description": "I am a good web developer",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    }
+  ],
+  "Work": [
+    {
+      "name": "UI/UX",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "projectLink": "https://www.github.com/4akhilkumar",
+      "codeLink": "https://www.github.com/4akhilkumar",
+      "description": "A blog website built with React JS",
+      "tags": ["UI/UX", "All"]
+    },
+    {
+      "name": "URL Shortener",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "projectLink": "https://www.github.com/4akhilkumar",
+      "codeLink": "https://www.github.com/4akhilkumar",
+      "description": "A blog website built with React JS",
+      "tags": ["UI/UX", "All"]
+    },
+    {
+      "name": "Blog Website",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "projectLink": "https://www.github.com/4akhilkumar",
+      "codeLink": "https://www.github.com/4akhilkumar",
+      "description": "A blog website built with React JS",
+      "tags": ["UI/UX", "All"]
+    },
+    {
+      "name": "Community App",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "projectLink": "https://www.github.com/4akhilkumar",
+      "codeLink": "https://www.github.com/4akhilkumar",
+      "description": "A blog website built with React JS",
+      "tags": ["UI/UX", "All"]
+    },
+    {
+      "name": "Web App Clone",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "projectLink": "https://www.github.com/4akhilkumar",
+      "codeLink": "https://www.github.com/4akhilkumar",
+      "description": "A blog website built with React JS",
+      "tags": ["UI/UX", "All"]
+    },
+    {
+      "name": "LMS",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "projectLink": "https://www.github.com/4akhilkumar",
+      "codeLink": "https://www.github.com/4akhilkumar",
+      "description": "A blog website built with React JS",
+      "tags": ["UI/UX", "All"]
+    }
+  ],
+  "Skills": [
+    {
+      "name": "HTML",
+      "bgColor": "#edf2f8",
+      "icon": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    },
+    {
+      "name": "CSS",
+      "bgColor": "#edf2f8",
+      "icon": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    },
+    {
+      "name": "JavaScript",
+      "bgColor": "#edf2f8",
+      "icon": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    },
+    {
+      "name": "Python",
+      "bgColor": "#edf2f8",
+      "icon": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    }
+  ],
+  "Experience": [
+    {
+      "year": "2022 - 2023",
+      "works": [
+        {
+          "role": "Software Developer",
+          "company": "Nokia",
+          "description": "I am developer at Nokia"
+        },
+        {
+          "role": "Software Developer",
+          "company": "Nokia",
+          "description": "I am developer at Nokia"
+        },
+        {
+          "role": "Software Developer",
+          "company": "Nokia",
+          "description": "I am developer at Nokia"
+        }
+      ]
+    },
+    {
+      "year": "2020 - 2021",
+      "works": [
+        {
+          "role": "Software Developer",
+          "company": "Nokia",
+          "description": "I am developer at Nokia"
+        }
+      ]
+    }
+  ],
+  "Testimonials": [
+    {
+      "name": "Adithya",
+      "company": "Infinite",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "feedback": "Akhil's attention to detail and problem-solving skills are unmatched. He consistently delivers high-quality work, no matter how complex the project."
+    },
+    {
+      "name": "Vishnu",
+      "company": "Mind tree",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "feedback": "Working with Akhil has been a pleasure. His ability to effectively communicate and collaborate with our team made the entire development process seamless."
+    },
+    {
+      "name": "Avinash",
+      "company": "Mind tree",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "feedback": "I've worked with many developers in my career, but Akhil stands out as one of the best. His commitment to delivering exceptional work is truly impressive."
+    },
+    {
+      "name": "Kathir",
+      "company": "Nokia",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "feedback": "Akhil's technical expertise is only matched by his dedication to ensuring our project was completed on time and on budget. I highly recommend him as a full stack developer."
+    },
+    {
+      "name": "Malathi",
+      "company": "CGI",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "feedback": "As someone with little technical experience, I was amazed by how easily Akhil was able to explain complex concepts to me. His ability to simplify technical jargon was truly impressive."
+    }
+  ],
+  "Brand": [
+    {
+      "name": "Spotify",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    },
+    {
+      "name": "YouTube",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    },
+    {
+      "name": "Google",
+      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+    }
+  ],
+  "Contact": {
+    "name": "Sai Akhil Kumar Reddy N",
+    "email": "4akhilkumar@gmail.com",
+    "phone": "+91 9291494989"
+  }
+}
