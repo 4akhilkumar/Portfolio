@@ -31,7 +31,7 @@
       "projectLink": "https://github.com/4akhilkumar/LinkPreview",
       "codeLink": "https://github.com/4akhilkumar/LinkPreview",
       "description": "A preview of a URL with title, description, and thumbnail using Open Graph meta tags.",
-      "tags": ["Web Development", "Python", "SEO", "REST API", "All"]
+      "tags": ["Python", "SEO", "Web Scraping", "Crawler", "REST API", "All"]
     },
     {
       "name": "URL Shortener",
@@ -39,7 +39,7 @@
       "projectLink": "https://github.com/4akhilkumar/Shortify",
       "codeLink": "https://github.com/4akhilkumar/Shortify",
       "description": "Shorten long URLs and track clicks with the URL Shortener app.",
-      "tags": ["Web Development", "Python", "All"]
+      "tags": ["Python", "All"]
     },
     {
       "name": "PyCrawlerX",
@@ -47,7 +47,7 @@
       "projectLink": "https://github.com/4akhilkumar/PyCrawlerX",
       "codeLink": "https://github.com/4akhilkumar/PyCrawlerX",
       "description": "PyCrawlerX is a command-line Python tool for directory crawling and file execution.",
-      "tags": ["Python", "CLI", "Directory Crawling", "File Execution"]
+      "tags": ["Python", "CLI", "Directory Crawler", "Crawler", "File Execution"]
     },
     {
       "name": "PyWizardLite",
@@ -63,7 +63,7 @@
       "projectLink": "https://github.com/4akhilkumar/akira_project",
       "codeLink": "https://github.com/4akhilkumar/akira_project",
       "description": "AkirA is a secure, responsive Education Management System with a rich UI, built-in URL shortener, and privacy protection.",
-      "tags": ["Educational Management System", "Python", "Django", "Security", "Rich UI", "Performance", "Productivity", "Privacy", "All"]
+      "tags": ["Educational Management System", "Python", "Django", "Security", "UI/UX", "Performance", "Productivity", "Privacy", "All"]
     }
   ],
   "Skills": [
