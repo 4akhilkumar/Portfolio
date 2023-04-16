@@ -3,28 +3,28 @@
     {
       "title": "Web Designer",
       "description": "I am a good web developer",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "imgUrl": ""
     },
     {
       "title": "Python Developer",
       "description": "I am a good web developer",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "imgUrl": ""
     },
     {
       "title": "Backend Developer",
       "description": "I am a good web developer",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "imgUrl": ""
     },
     {
       "title": "Frontend Developer",
       "description": "I am a good web developer",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "imgUrl": ""
     }
   ],
   "Work": [
     {
       "name": "UI/UX",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "imgUrl": "",
       "projectLink": "https://www.github.com/4akhilkumar",
       "codeLink": "https://www.github.com/4akhilkumar",
       "description": "A blog website built with React JS",
@@ -32,7 +32,7 @@
     },
     {
       "name": "URL Shortener",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "imgUrl": "",
       "projectLink": "https://www.github.com/4akhilkumar",
       "codeLink": "https://www.github.com/4akhilkumar",
       "description": "A blog website built with React JS",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Blog Website",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "imgUrl": "",
       "projectLink": "https://www.github.com/4akhilkumar",
       "codeLink": "https://www.github.com/4akhilkumar",
       "description": "A blog website built with React JS",
@@ -48,7 +48,7 @@
     },
     {
       "name": "Community App",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "imgUrl": "",
       "projectLink": "https://www.github.com/4akhilkumar",
       "codeLink": "https://www.github.com/4akhilkumar",
       "description": "A blog website built with React JS",
@@ -56,7 +56,7 @@
     },
     {
       "name": "Web App Clone",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "imgUrl": "",
       "projectLink": "https://www.github.com/4akhilkumar",
       "codeLink": "https://www.github.com/4akhilkumar",
       "description": "A blog website built with React JS",
@@ -64,7 +64,7 @@
     },
     {
       "name": "LMS",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "imgUrl": "",
       "projectLink": "https://www.github.com/4akhilkumar",
       "codeLink": "https://www.github.com/4akhilkumar",
       "description": "A blog website built with React JS",
@@ -75,22 +75,62 @@
     {
       "name": "HTML",
       "bgColor": "#edf2f8",
-      "icon": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
     },
     {
       "name": "CSS",
       "bgColor": "#edf2f8",
-      "icon": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
     },
     {
       "name": "JavaScript",
       "bgColor": "#edf2f8",
-      "icon": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
     },
     {
       "name": "Python",
       "bgColor": "#edf2f8",
-      "icon": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+    },
+    {
+      "name": "Django",
+      "bgColor": "#edf2f8",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"
+    },
+    {
+      "name": "Flask",
+      "bgColor": "#edf2f8",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
+    },
+    {
+      "name": "FastAPI",
+      "bgColor": "#edf2f8",
+      "icon": "https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png"
+    },
+    {
+      "name": "MySQL",
+      "bgColor": "#edf2f8",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg"
+    },
+    {
+      "name": "MongoDB",
+      "bgColor": "#edf2f8",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
+    },
+    {
+      "name": "Visual Studio Code",
+      "bgColor": "#edf2f8",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+    },
+    {
+      "name": "Git",
+      "bgColor": "#edf2f8",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"
+    },
+    {
+      "name": "GitHub",
+      "bgColor": "#edf2f8",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
     }
   ],
   "Experience": [
@@ -98,82 +138,60 @@
       "year": "2022 - 2023",
       "works": [
         {
-          "role": "Software Developer",
+          "role": "Intern - Software Developer",
           "company": "Nokia",
-          "description": "I am developer at Nokia"
-        },
-        {
-          "role": "Software Developer",
-          "company": "Nokia",
-          "description": "I am developer at Nokia"
-        },
-        {
-          "role": "Software Developer",
-          "company": "Nokia",
-          "description": "I am developer at Nokia"
-        }
-      ]
-    },
-    {
-      "year": "2020 - 2021",
-      "works": [
-        {
-          "role": "Software Developer",
-          "company": "Nokia",
-          "description": "I am developer at Nokia"
+          "description": "I am a highly skilled and experienced automation developer with a strong background in using various automation tools and frameworks. During my internship, I used the Robot framework to automate tasks and worked on projects involving API development using Flask and testing using POSTMAN. I also have expertise in using libraries such as pandas, numpy, Selenium, AutoGUIX, and have created and published my own custom PyPI modules to overcome project limitations. Furthermore, I have developed modules for crawling folders in the system, capturing screenshots using Pillow, and generating Word documents using python-docx. My ability to think creatively and problem-solve in a fast-paced environment allows me to deliver high-quality solutions within deadlines."
         }
       ]
     }
   ],
   "Testimonials": [
     {
-      "name": "Adithya",
+      "name": "Adithya Mallikarjun R",
       "company": "Infinite",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Windows_10_Default_Profile_Picture.svg",
       "feedback": "Akhil's attention to detail and problem-solving skills are unmatched. He consistently delivers high-quality work, no matter how complex the project."
     },
     {
-      "name": "Vishnu",
+      "name": "Vishnu Charan B",
       "company": "Mind tree",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Windows_10_Default_Profile_Picture.svg",
       "feedback": "Working with Akhil has been a pleasure. His ability to effectively communicate and collaborate with our team made the entire development process seamless."
     },
     {
-      "name": "Avinash",
+      "name": "Avinash Kumar K",
       "company": "Mind tree",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Windows_10_Default_Profile_Picture.svg",
       "feedback": "I've worked with many developers in my career, but Akhil stands out as one of the best. His commitment to delivering exceptional work is truly impressive."
-    },
-    {
-      "name": "Kathir",
-      "company": "Nokia",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
-      "feedback": "Akhil's technical expertise is only matched by his dedication to ensuring our project was completed on time and on budget. I highly recommend him as a full stack developer."
-    },
-    {
-      "name": "Malathi",
-      "company": "CGI",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA",
-      "feedback": "As someone with little technical experience, I was amazed by how easily Akhil was able to explain complex concepts to me. His ability to simplify technical jargon was truly impressive."
     }
   ],
   "Brand": [
     {
       "name": "Spotify",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "imgUrl": ""
     },
     {
       "name": "YouTube",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "imgUrl": ""
     },
     {
       "name": "Google",
-      "imgUrl": "https://fastly.picsum.photos/id/866/536/354.jpg?hmac=tGofDTV7tl2rprappPzKFiZ9vDh5MKj39oa2D--gqhA"
+      "imgUrl": ""
     }
   ],
   "Contact": {
     "name": "Sai Akhil Kumar Reddy N",
     "email": "4akhilkumar@gmail.com",
     "phone": "+91 9291494989"
+  },
+  "Header": {
+    "nickname": "Akhil",
+    "professional_roles": ["Full Stack Developer", "Freelancer"],
+    "profile_image": "",
+    "tech_stack": [
+      {"name": "React JS", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"},
+      {"name": "Python", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"},
+      {"name": "MongoDB", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"}
+    ]
   }
 }
