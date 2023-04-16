@@ -63,7 +63,7 @@
       "projectLink": "https://github.com/4akhilkumar/akira_project",
       "codeLink": "https://github.com/4akhilkumar/akira_project",
       "description": "AkirA is a secure, responsive Education Management System with a rich UI, built-in URL shortener, and privacy protection.",
-      "tags": ["Educational Management System", "Python", "Django", "Security", "UI/UX", "Performance", "Productivity", "Privacy", "All"]
+      "tags": ["Educational Management System", "Python", "Django", "REST API", "Security", "UI/UX", "Performance", "Productivity", "Privacy", "All"]
     }
   ],
   "Skills": [
@@ -138,6 +138,26 @@
           "description": "I am a highly skilled and experienced automation developer with a strong background in using various automation tools and frameworks. During my internship, I used the Robot framework to automate tasks and worked on projects involving API development using Flask and testing using POSTMAN. I also have expertise in using libraries such as pandas, numpy, Selenium, AutoGUIX, and have created and published my own custom PyPI modules to overcome project limitations. Furthermore, I have developed modules for crawling folders in the system, capturing screenshots using Pillow, and generating Word documents using python-docx. My ability to think creatively and problem-solve in a fast-paced environment allows me to deliver high-quality solutions within deadlines."
         }
       ]
+    },
+    {
+      "year": "2022",
+      "works": [
+        {
+          "role": "Software Developer",
+          "company": "Freelancer",
+          "description": "I have a diverse range of skills and expertise that allow me to provide high-quality services to clients across various industries. I am proficient in various programming languages, such as Python, Java, and JavaScript, and have experience in developing both front-end and back-end applications. Additionally, I am skilled in web design and have a good understanding of design software such as Adobe XD, Sketch, or Figma. I am a self-starter who can manage projects and communicate effectively with clients, ensuring that their needs and expectations are met. My ability to adapt quickly to new technologies and work independently makes me an asset to any project."
+        }
+      ]
+    },
+    {
+      "year": "2020 - 2022",
+      "works": [
+        {
+          "role": "Student Peer Mentor",
+          "company": "KL University",
+          "description": "Peer mentors provide motivation, emotional support, education, recreation and as well as provide guidance, support opportunities to individuals. The peer mentor may challenge the mentee with new ideas, and encourage the mentee to move beyond the things that are most comfortable."
+        }
+      ]
     }
   ],
   "Testimonials": [
@@ -190,7 +210,7 @@
     "tech_stack": [
       {"name": "React JS", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"},
       {"name": "Python", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"},
-      {"name": "MongoDB", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"}
+      {"name": "GitHub", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"}
     ]
   }
 }
