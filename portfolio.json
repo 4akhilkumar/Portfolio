@@ -1,74 +1,69 @@
 {
   "About": [
     {
-      "title": "Web Designer",
-      "description": "I am a good web developer",
-      "imgUrl": ""
+      "title": "UI/UX Designer",
+      "description": "I create visually appealing and user-friendly interfaces with proficiency in design software and front-end development technologies.",
+      "imgUrl": "https://cdn.dribbble.com/users/2016622/screenshots/6307218/dribbble__-__.png"
     },
     {
       "title": "Python Developer",
-      "description": "I am a good web developer",
-      "imgUrl": ""
+      "description": "I am experienced Python Developer with expertise in NumPy, Pandas, Scikit-learn, SQL, and MongoDB.",
+      "imgUrl": "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif"
     },
     {
-      "title": "Backend Developer",
-      "description": "I am a good web developer",
-      "imgUrl": ""
-    },
-    {
-      "title": "Frontend Developer",
-      "description": "I am a good web developer",
-      "imgUrl": ""
+      "title": "Full Stack Developer",
+      "description": "As a Full Stack Developer, I am skilled in developing and maintaining both front-end and back-end of web applications with expertise in multiple programming languages and frameworks.",
+      "imgUrl": "https://www.talentverse.co/themes/talentverse/assets/images/service-bannerc.png"
     }
   ],
   "Work": [
     {
-      "name": "UI/UX",
-      "imgUrl": "",
-      "projectLink": "https://www.github.com/4akhilkumar",
-      "codeLink": "https://www.github.com/4akhilkumar",
-      "description": "A blog website built with React JS",
+      "name": "Toast Messages",
+      "imgUrl": "https://cdn.dribbble.com/users/161503/screenshots/15945540/media/7e481917115a5d62b985c2f7eb094aec.png",
+      "projectLink": "https://github.com/4akhilkumar/ToastMessageJS",
+      "codeLink": "https://github.com/4akhilkumar/ToastMessageJS",
+      "description": "A vanilla JavaScript and CSS-based toast message system for web applications.",
       "tags": ["UI/UX", "All"]
+    },
+    {
+      "name": "Link Preview",
+      "imgUrl": "https://piar.io/blog/wp-content/uploads/2021/07/Video-Full-HD-1920x1080-px-930x620.jpeg",
+      "projectLink": "https://github.com/4akhilkumar/LinkPreview",
+      "codeLink": "https://github.com/4akhilkumar/LinkPreview",
+      "description": "A preview of a URL with title, description, and thumbnail using Open Graph meta tags.",
+      "tags": ["Web Development", "Python", "SEO", "REST API", "All"]
     },
     {
       "name": "URL Shortener",
-      "imgUrl": "",
-      "projectLink": "https://www.github.com/4akhilkumar",
-      "codeLink": "https://www.github.com/4akhilkumar",
-      "description": "A blog website built with React JS",
-      "tags": ["UI/UX", "All"]
+      "imgUrl": "https://cdn.dribbble.com/users/76454/screenshots/9097566/media/b19aa380c50fb7843c100b544db3b82f.png",
+      "projectLink": "https://github.com/4akhilkumar/Shortify",
+      "codeLink": "https://github.com/4akhilkumar/Shortify",
+      "description": "Shorten long URLs and track clicks with the URL Shortener app.",
+      "tags": ["Web Development", "Python", "All"]
     },
     {
-      "name": "Blog Website",
-      "imgUrl": "",
-      "projectLink": "https://www.github.com/4akhilkumar",
-      "codeLink": "https://www.github.com/4akhilkumar",
-      "description": "A blog website built with React JS",
-      "tags": ["UI/UX", "All"]
+      "name": "PyCrawlerX",
+      "imgUrl": "https://cdn.dribbble.com/users/2417352/screenshots/16921828/media/78d25be36441491fcd58a77a55762f45.png",
+      "projectLink": "https://github.com/4akhilkumar/PyCrawlerX",
+      "codeLink": "https://github.com/4akhilkumar/PyCrawlerX",
+      "description": "PyCrawlerX is a command-line Python tool for directory crawling and file execution.",
+      "tags": ["Python", "CLI", "Directory Crawling", "File Execution"]
     },
     {
-      "name": "Community App",
-      "imgUrl": "",
-      "projectLink": "https://www.github.com/4akhilkumar",
-      "codeLink": "https://www.github.com/4akhilkumar",
-      "description": "A blog website built with React JS",
-      "tags": ["UI/UX", "All"]
+      "name": "PyWizardLite",
+      "imgUrl": "https://cdn.dribbble.com/users/76454/screenshots/12260305/media/7e745d2d49928d38da6d064be8ff5709.png",
+      "projectLink": "https://github.com/4akhilkumar/PyWizardLite",
+      "codeLink": "https://github.com/4akhilkumar/PyWizardLite",
+      "description": "PyWizardLite is a Python script that automates downloading Chrome driver and generating xpaths for webpage elements.",
+      "tags": ["Python", "Automation", "Web Scraping", "Chrome Driver", "XPath", "All"]
     },
     {
-      "name": "Web App Clone",
-      "imgUrl": "",
-      "projectLink": "https://www.github.com/4akhilkumar",
-      "codeLink": "https://www.github.com/4akhilkumar",
-      "description": "A blog website built with React JS",
-      "tags": ["UI/UX", "All"]
-    },
-    {
-      "name": "LMS",
-      "imgUrl": "",
-      "projectLink": "https://www.github.com/4akhilkumar",
-      "codeLink": "https://www.github.com/4akhilkumar",
-      "description": "A blog website built with React JS",
-      "tags": ["UI/UX", "All"]
+      "name": "AkirA",
+      "imgUrl": "https://cdn.dribbble.com/users/323673/screenshots/14212802/media/2b3ad2ab68eecff3aa2fff0c73c0072e.png",
+      "projectLink": "https://github.com/4akhilkumar/akira_project",
+      "codeLink": "https://github.com/4akhilkumar/akira_project",
+      "description": "AkirA is a secure, responsive Education Management System with a rich UI, built-in URL shortener, and privacy protection.",
+      "tags": ["Educational Management System", "Python", "Django", "Security", "Rich UI", "Performance", "Productivity", "Privacy", "All"]
     }
   ],
   "Skills": [
@@ -118,7 +113,7 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
     },
     {
-      "name": "Visual Studio Code",
+      "name": "VS Code",
       "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
     },
@@ -167,16 +162,20 @@
   ],
   "Brand": [
     {
-      "name": "Spotify",
-      "imgUrl": ""
+      "name": "Nokia",
+      "imgUrl": "https://www.nokia.com/sites/default/files/styles/scale_720_no_crop/public/2023-02/nokia-refreshed-logo-1_1.jpg"
     },
     {
-      "name": "YouTube",
-      "imgUrl": ""
+      "name": "GitHub Education",
+      "imgUrl": "https://user-images.githubusercontent.com/97467892/151880377-1c26ae86-8fbf-4874-9bb3-af7c7d050486.png"
     },
     {
-      "name": "Google",
-      "imgUrl": ""
+      "name": "NPM",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"
+    },
+    {
+      "name": "PyPI",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg"
     }
   ],
   "Contact": {
