@@ -212,5 +212,10 @@
       {"name": "Python", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"},
       {"name": "GitHub", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"}
     ]
+  },
+  "Social Media": {
+    "Instagram": "https://www.instagram.com/akhil_reddy._",
+    "LinkedIn": "https://www.linkedin.com/in/4akhilkumar/",
+    "Telegram": "https://t.me/activare"
   }
 }
