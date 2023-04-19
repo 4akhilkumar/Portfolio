@@ -1,5 +1,4 @@
-// const API_URL = "https://raw.githubusercontent.com/4akhilkumar/Portfolio/master/portfolio.json";
-const API_URL = "http://127.0.0.1:8000/portfolio";
+const API_URL = "https://raw.githubusercontent.com/4akhilkumar/Portfolio/master/backend/portfolio.json";
 
 export const client = () => {
   return fetch(API_URL)
