@@ -69,62 +69,50 @@
   "Skills": [
     {
       "name": "HTML",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
     },
     {
       "name": "CSS",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
     },
     {
       "name": "JavaScript",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
     },
     {
       "name": "Python",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
     },
     {
       "name": "Django",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"
     },
     {
       "name": "Flask",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
     },
     {
       "name": "FastAPI",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png"
     },
     {
       "name": "MySQL",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg"
     },
     {
       "name": "MongoDB",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
     },
     {
       "name": "VS Code",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
     },
     {
       "name": "Git",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"
     },
     {
       "name": "GitHub",
-      "bgColor": "#edf2f8",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
     }
   ],

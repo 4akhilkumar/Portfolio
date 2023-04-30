@@ -37,7 +37,6 @@ const Skills = () => {
             >
               <div
                 className="app__flex"
-                style={{ backgroundColor: skill.bgColor }}
               >
                 <img src={skill.icon} alt={skill.name} />
               </div>
