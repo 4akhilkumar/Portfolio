@@ -195,6 +195,7 @@
     "nickname": "Akhil",
     "professional_roles": ["Full Stack Developer", "Freelancer"],
     "profile_image": "",
+    "logo":"",
     "tech_stack": [
       {"name": "React JS", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"},
       {"name": "Python", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"},
