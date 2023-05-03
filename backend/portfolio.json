@@ -195,7 +195,7 @@
     "nickname": "Akhil",
     "professional_roles": ["Full Stack Developer", "Freelancer"],
     "profile_image": "",
-    "logo":"",
+    "logo":"https://raw.githubusercontent.com/4akhilkumar/Portfolio/master/backend/STATIC_FILES/V2_NOBG.png",
     "tech_stack": [
       {"name": "React JS", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"},
       {"name": "Python", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"},
